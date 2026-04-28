@@ -21,7 +21,7 @@ The **Materials** folder contains the data, the code, and the articles for refer
 
 These include:
 - Articles on vaccine misinformation and public health communication  
-- Background resources on sentiment analysis and social media data  
+- Background resources on VADER sentiment analysis
 - Jupyter Notebook
-- CSV File
+- Dataset - vaccine_tweets.csv
 
